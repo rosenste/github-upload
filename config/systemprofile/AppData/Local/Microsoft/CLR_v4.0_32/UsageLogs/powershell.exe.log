@@ -1,0 +1,20 @@
+1,"fusion","GAC",0
+1,"WinRT","NotApp",1
+2,"Microsoft.PowerShell.ConsoleHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+2,"System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\827465c25133ff582ff7ddaf85635407\System.ni.dll",0
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\374ae62ebbde44ef97c7e898f1fdb21b\System.Core.ni.dll",0
+3,"System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml\10879c5bddb2dd2399e2098d5ca5c9d1\System.Xml.ni.dll",0
+3,"System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Numerics\53856bc4f69de4fa1a74ac0b10bb1ce0\System.Numerics.ni.dll",0
+3,"System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\30e79728ed64912e9fdd377c410db818\System.DirectoryServices.ni.dll",0
+3,"System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Management\0accf2e4f7016da22c582e373fae949e\System.Management.ni.dll",0
+3,"System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Data\6ef9a6e3c64a0e1d3f5927b7454c0932\System.Data.ni.dll",0
+3,"System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Configuration\b863adc9d550931e279ac7e2ee517d1f\System.Configuration.ni.dll",0
+2,"Microsoft.PowerShell.Security, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+3,"System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Transactions\af3678a621926acf7605888d255dbd98\System.Transactions.ni.dll",0
+2,"Microsoft.PowerShell.Commands.Management, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+3,"System.Configuration.Install, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Confe64a9051#\989d48bf1bfc9e3c8d60c09e2a6a7c0d\System.Configuration.Install.ni.dll",0
+3,"System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Serv759bfb78#\b0866abdcbab698222e6de5a01175245\System.ServiceProcess.ni.dll",0
+3,"System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Drawing\9071a2976b2ef0ee49d0396431277b05\System.Drawing.ni.dll",0
+3,"System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\ca77152be4cd7af9700becb268864b42\System.Windows.Forms.ni.dll",0
+2,"Microsoft.PowerShell.Commands.Utility, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0

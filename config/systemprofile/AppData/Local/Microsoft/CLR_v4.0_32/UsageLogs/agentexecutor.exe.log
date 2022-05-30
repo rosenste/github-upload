@@ -1,0 +1,7 @@
+1,"fusion","GAC",0
+1,"WinRT","NotApp",1
+2,"System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\827465c25133ff582ff7ddaf85635407\System.ni.dll",0
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\374ae62ebbde44ef97c7e898f1fdb21b\System.Core.ni.dll",0
+3,"System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Configuration\b863adc9d550931e279ac7e2ee517d1f\System.Configuration.ni.dll",0
+3,"System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml\10879c5bddb2dd2399e2098d5ca5c9d1\System.Xml.ni.dll",0

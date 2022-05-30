@@ -1,0 +1,3 @@
+2022-05-01 17:49:10.2639 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Intel SM Agent started.
+2022-05-01 17:49:10.3445 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Init first instance for AgentController
+2022-05-01 17:49:12.8168 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Agent service is being hosted successfully.

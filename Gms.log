@@ -1,0 +1,1795 @@
+(6988)[2021-10-27 13:47:49.289846][LM_DEBUG   ]  GmsService:Starting service
+(6988)[2021-10-27 13:47:49.291881][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:49.291881][LM_DEBUG   ]  Checking signature for configuration file GmsCommon.dll
+(6988)[2021-10-27 13:47:49.299917][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  Checking version for configuration file GmsCommon.dll
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\GmsCommon.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  Checking signature for configuration file WsmanClient.dll
+(6988)[2021-10-27 13:47:50.089232][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  Checking version for configuration file WsmanClient.dll
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\WsmanClient.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.351637][LM_DEBUG   ]  loading strings
+(6988)[2021-10-27 13:47:50.462579][LM_DEBUG   ]  Checking signature for configuration file Configurator.dll
+(6988)[2021-10-27 13:47:50.462579][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.553370][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.553370][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.553370][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.553370][LM_DEBUG   ]  Checking version for configuration file Configurator.dll
+(6988)[2021-10-27 13:47:50.561425][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.561425][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\Configurator.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.561425][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> init
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> initSubService
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  Configurator
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: <-- initSubService
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  Configurator, 0x2cabef8
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  Success
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: <-- init
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  Message type 520 process started
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  got start event
+(6988)[2021-10-27 13:47:50.634114][LM_DEBUG   ]  CONF: --> ScanConfiguration
+(6988)[2021-10-27 13:47:50.654268][LM_DEBUG   ]  FW Version 14.1.53.1649
+(6988)[2021-10-27 13:47:50.662320][LM_DEBUG   ]  CONF: --> IsLMEExists
+(6988)[2021-10-27 13:47:50.662320][LM_DEBUG   ]  Trial # 1
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  heci Init succeeded
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: <-- IsLMEExists Status: 1
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  platform=0x42001491 FWCaps=0x5DF6D645 LME_exists=1
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: --> DoOverrideProsetAdapterSwitching
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: <-- DoOverrideProsetAdapterSwitching
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  StartAceService: FirstService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService: --> initSubService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService: <-- initSubService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService: --> startSubService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService, 0x2C503B8
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  FirstService: <-- startSubService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  StartAceService: HostChangesNotificationService
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  Checking signature for configuration file HostChangesNotificationService.dll
+(6988)[2021-10-27 13:47:50.664363][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.745043][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.745043][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.745043][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.745043][LM_DEBUG   ]  Checking version for configuration file HostChangesNotificationService.dll
+(6988)[2021-10-27 13:47:50.753082][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.753082][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\HostChangesNotificationService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.753082][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HCNS: --> initSubService
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HostChangesNotificationService
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HCNS: <-- initSubService
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HCNS: --> startSubService
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HostChangesNotificationService, 0x421B200
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  HCNS: <-- startSubService
+(6988)[2021-10-27 13:47:50.755113][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: <-- ScanConfiguration
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  serviceName: FirstService, status: 1
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 14
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  StartAceService: EventManager
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  Checking signature for configuration file EventManager.dll
+(6988)[2021-10-27 13:47:50.763170][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.805581][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.805581][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  Checking version for configuration file EventManager.dll
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\EventManager.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EVMG: --> initSubService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EventManager
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EVMG: <-- initSubService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EVMG: --> startSubService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EventManager, 0x4215770
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  EVMG: <-- startSubService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  serviceName: HostChangesNotificationService, status: 1
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 13
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  serviceName: EventManager, status: 1
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 13
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  StartAceService: COMEventHandler
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  Checking signature for configuration file COMEventHandler.dll
+(6988)[2021-10-27 13:47:50.815663][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.904462][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.904462][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  Checking version for configuration file COMEventHandler.dll
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\COMEventHandler.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  EventHandler::init COMEventHandler 
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  COME: --> initSubService
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  COMEventHandler
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  COME: <-- initSubService
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  StartAceService: HistoryEventHandler
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  Checking signature for configuration file HistoryEventHandler.dll
+(6988)[2021-10-27 13:47:50.906491][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:50.995306][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:50.995306][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  Checking version for configuration file HistoryEventHandler.dll
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\HistoryEventHandler.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  EventHandler::init HistoryEventHandler 
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  HEVH: --> initSubService
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  HistoryEventHandler
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  HEVH: <-- initSubService
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  StartAceService: WMIEventHandler
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  Checking signature for configuration file WMIEventHandler.dll
+(6988)[2021-10-27 13:47:50.997345][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:51.078256][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.078256][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  Checking version for configuration file WMIEventHandler.dll
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\WMIEventHandler.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  EventHandler::init WMIEventHandler 
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  WMI: --> initSubService
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  WMIEventHandler
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  WMI: <-- initSubService
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  StartAceService: WinLogEventHandler
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  Checking signature for configuration file WinLogEventHandler.dll
+(6988)[2021-10-27 13:47:51.088365][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:51.148942][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.148942][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.156978][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.156978][LM_DEBUG   ]  Checking version for configuration file WinLogEventHandler.dll
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\WinLogEventHandler.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  EventHandler::init WinLogEventHandler 
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  WLOG: --> initSubService
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  WinLogEventHandler
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  WLOG: <-- initSubService
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:51.159015][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::subscribe COMEventHandler for events
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to COMEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::subscribe HistoryEventHandler for events
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to HistoryEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::subscribe WMIEventHandler for events
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to WMIEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventManager::subscribe WinLogEventHandler for events
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to WinLogEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COME: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: COMEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: COMEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COMEventHandler MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COME: --> startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COMEventHandler, 0x2C53328
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COME: <-- startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  COME: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HEVH: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: HistoryEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: HistoryEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HistoryEventHandler MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HEVH: --> startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HistoryEventHandler, 0x2C53080
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HEVH: <-- startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  HEVH: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMI: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: WMIEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: WMIEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMIEventHandler MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMI: --> startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMIEventHandler, 0x2C53438
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMI: <-- startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WMI: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WLOG: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: WinLogEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: WinLogEventHandler
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WinLogEventHandler MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WLOG: --> startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WinLogEventHandler, 0x2C53878
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WLOG: <-- startSubService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  WLOG: <-- handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  serviceName: COMEventHandler, status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 9
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  serviceName: HistoryEventHandler, status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 9
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  serviceName: WMIEventHandler, status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 9
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  serviceName: WinLogEventHandler, status: 1
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 9
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.169105][LM_DEBUG   ]  StartAceService: StatusEventHandler
+(6988)[2021-10-27 13:47:51.177145][LM_DEBUG   ]  Checking signature for configuration file StatusEventHandler.dll
+(6988)[2021-10-27 13:47:51.177145][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:51.270089][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.270089][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  Checking version for configuration file StatusEventHandler.dll
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\StatusEventHandler.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EventHandler::init StatusEventHandler 
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  STEH: --> initSubService
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  StatusEventHandler
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  STEH: <-- initSubService
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EventManager::subscribe StatusEventHandler for events
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  GmsService: sending message to StatusEventHandler
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  STEH: --> handle_output
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  handle_output: StatusEventHandler
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  EventHandler::HandleAceMessage type:532, name: StatusEventHandler
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  STEH: --> firstPullForEvents
+(6988)[2021-10-27 13:47:51.280169][LM_DEBUG   ]  STEH: --> GetAmtState
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  Capability=0x5DF6D645 State=0x5DF6D645
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  AmtState=2
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: <-- GetAmtState Status: 1
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: --> GetManageabiltyMode
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  platform=0x42001491
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  CustomerType=0 ManageMode=2
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: <-- GetManageabiltyMode Status: 1
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: <-- firstPullForEvents
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: --> GenerateEvents
+(6988)[2021-10-27 13:47:51.290290][LM_DEBUG   ]  STEH: --> GetAmtState
+(6988)[2021-10-27 13:47:51.298324][LM_DEBUG   ]  Capability=0x5DF6D645 State=0x5DF6D645
+(6988)[2021-10-27 13:47:51.298324][LM_DEBUG   ]  AmtState=2
+(6988)[2021-10-27 13:47:51.298324][LM_DEBUG   ]  STEH: <-- GetAmtState Status: 1
+(6988)[2021-10-27 13:47:51.300358][LM_DEBUG   ]  SOL=0 	 IDER=0
+(6988)[2021-10-27 13:47:51.308411][LM_DEBUG   ]  SystemDefense=0 
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: <-- GenerateEvents
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: --> requestDisplaySettings
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: <-- requestDisplaySettings
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: StatusEventHandler
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  StatusEventHandler MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: --> startSubService
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  StatusEventHandler, 0x421E658
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: <-- startSubService
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: <-- handle_output
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: --> handle_output
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  handle_output: StatusEventHandler
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  STEH: <-- handle_output
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  serviceName: StatusEventHandler, status: 1
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 8
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  StartAceService: PortForwardingService
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  Checking signature for configuration file PortForwardingService.dll
+(6988)[2021-10-27 13:47:51.310445][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:51.370972][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.370972][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.379009][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.379009][LM_DEBUG   ]  Checking version for configuration file PortForwardingService.dll
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\PortForwardingService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PFWS: started
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PFWS: --> initSubService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PortForwardingService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PFWS: <-- initSubService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PFWS: --> startSubService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PortForwardingService, 0x2C53DC8
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  PFWS: <-- startSubService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  serviceName: PortForwardingService, status: 1
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 7
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.391141][LM_DEBUG   ]  StartAceService: PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.399176][LM_DEBUG   ]  Checking signature for configuration file PartialFWUpdateService.dll
+(6988)[2021-10-27 13:47:51.399176][LM_DEBUG   ]  Verifying signature
+(8188)[2021-10-27 13:47:51.439497][LM_DEBUG   ]  Main LMS Thread started
+(8188)[2021-10-27 13:47:51.439497][LM_DEBUG   ]  PROT: --> Init
+(8188)[2021-10-27 13:47:51.439497][LM_DEBUG   ]  PROT: --> Deinit
+(8188)[2021-10-27 13:47:51.439497][LM_DEBUG   ]  LMEC: --> Deinit
+(8188)[2021-10-27 13:47:51.439497][LM_DEBUG   ]  LMEC: <-- Deinit
+(6988)[2021-10-27 13:47:51.471787][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.471787][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.471787][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.471787][LM_DEBUG   ]  Checking version for configuration file PartialFWUpdateService.dll
+(6988)[2021-10-27 13:47:51.471787][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\PartialFWUpdateService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  EventHandler::init PartialFWUpdateService 
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: --> initSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: <-- initSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: --> initSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: <-- initSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: --> startSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PartialFWUpdateService, 0x420F5A8
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  PFU: <-- startSubService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  serviceName: PartialFWUpdateService, status: 1
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 6
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  StartAceService: IPRefreshService
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  Checking signature for configuration file IPRefreshService.dll
+(6988)[2021-10-27 13:47:51.481862][LM_DEBUG   ]  Verifying signature
+(8188)[2021-10-27 13:47:51.512135][LM_DEBUG   ]  	Number of entries: 8
+(8188)[2021-10-27 13:47:51.512135][LM_DEBUG   ]  PROT: <-- Deinit
+(8188)[2021-10-27 13:47:51.512135][LM_DEBUG   ]  LMEC: --> Init
+(6988)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  Verifying certificate name
+(8188)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  _threadStartedEvent was set
+(5768)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  ==>LME: Protocol version: 1.0.254
+(5768)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  ==>LME: Service accept: pfwd@amt.intel.com
+(5768)[2021-10-27 13:47:51.560569][LM_DEBUG   ]  Accepting service: pfwd@amt.intel.com
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  Checking version for configuration file IPRefreshService.dll
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  ==>LME: TCP forward replay success, Port 16992.
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  PROT: --> _updateIPFQDN
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  Got FQDN: 
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  PROT: <-- _updateIPFQDN
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  _portIsOk
+(8188)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  _portIsOk was set
+(8188)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  LMEC: <-- Init Status: 1
+(8188)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  ---> Check for update in Adapter ...
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\IPRefreshService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  Version is valid
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  ==>LME: TCP forward replay success, Port 623.
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  PROT: --> _updateIPFQDN
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  Got FQDN: 
+(5768)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  PROT: <-- _updateIPFQDN
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPRefresh service started
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPR: --> initSubService
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPRefreshService
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPR: <-- initSubService
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPR: --> startSubService
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPRefreshService, 0x42A2868
+(6988)[2021-10-27 13:47:51.562612][LM_DEBUG   ]  IPR: <-- startSubService
+(6988)[2021-10-27 13:47:51.570680][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.570680][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.570680][LM_DEBUG   ]  StartAceService: PowerOperationsService
+(6988)[2021-10-27 13:47:51.570680][LM_DEBUG   ]  Checking signature for configuration file PowerOperationsService.dll
+(6988)[2021-10-27 13:47:51.570680][LM_DEBUG   ]  Verifying signature
+(8188)[2021-10-27 13:47:51.572716][LM_DEBUG   ]  Local DNS suffix: ger.corp.intel.com
+(8188)[2021-10-27 13:47:51.572716][LM_DEBUG   ]  	IP Address ::1
+(8188)[2021-10-27 13:47:51.572716][LM_DEBUG   ]  PROT: --> _updateEnterpriseAccessStatus
+(8188)[2021-10-27 13:47:51.572716][LM_DEBUG   ]  PROT: <-- _updateEnterpriseAccessStatus
+(6988)[2021-10-27 13:47:51.623163][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:51.623163][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:51.631237][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:51.631237][LM_DEBUG   ]  Checking version for configuration file PowerOperationsService.dll
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\PowerOperationsService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventHandler::init PowerOperationsService 
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: --> initSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PowerOperationsService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: <-- initSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  StartAceService: SharedStaticIPService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  SharedStaticIPService: needSpecialCheck
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  SharedStaticIPService: Port Forwarding did not start yet, delay StartAceService operation till Port Forwarding start.
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  StartAceService: TimeSyncService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  TimeSyncService: needSpecialCheck
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  TimeSyncService: Port Forwarding did not start yet, delay StartAceService operation till Port Forwarding start.
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  StartAceService: WiFiProfileSyncService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  WiFiProfileSyncService: needSpecialCheck
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  WiFiProfileSyncService: Port Forwarding did not start yet, delay StartAceService operation till Port Forwarding start.
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  serviceName: IPRefreshService, status: 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventManager::subscribe PartialFWUpdateService for events
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message to PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventManager::subscribe PowerOperationsService for events
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message to PowerOperationsService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventHandler::HandleAceMessage type:516, name: PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: --> handle_event
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PartialFWUpdateService: MB_PFWU_START_EVENT
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: --> partialFWUpdate
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: <-- partialFWUpdate Status: 0
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PartialFWUpdateService: Error - Port Forwarding did not start yet, aborting partialFWUpdate operation. (Will perform it when gets event of EVENT_PORT_FORWARDING_SERVICE_AVAILABLE
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: <-- handle_event Status: 516
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PartialFWUpdateService MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: --> startSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PartialFWUpdateService, 0x420F5A8
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: <-- startSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  serviceName: PartialFWUpdateService, status: 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: PowerOperationsService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventHandler::HandleAceMessage type:533, name: PowerOperationsService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PowerOperationsService: Error - Port Forwarding did not start yet, aborting addPowerCapabilities operation. (Will perform it when gets event of EVENT_PORT_FORWARDING_SERVICE_AVAILABLE
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: PowerOperationsService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PowerOperationsService MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: --> startSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PowerOperationsService, 0x420ECA8
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: <-- startSubService
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  POPS: <-- handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:47:51.633276][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  POPS: --> handle_output
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  handle_output: PowerOperationsService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  POPS: <-- handle_output
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  serviceName: PowerOperationsService, status: 1
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 1
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  StartAceService: LastService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService: --> initSubService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService: <-- initSubService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService: --> startSubService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService, 0x2C511B8
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  LastService: <-- startSubService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  serviceName: LastService, status: 1
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> TaskCompleted
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  Message type 520 scheduled to complete
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- TaskCompleted
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  TASK_COMPLETED
+(6988)[2021-10-27 13:47:51.641339][LM_DEBUG   ]  Message type 520 process completed
+(6988)[2021-10-27 13:47:51.643346][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  HostChangesNotificationService service handle timeout
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  HCNS: --> handle_output
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  handle_output: HostChangesNotificationService
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  HostChangesNotificationService::HandleAceMessage
+(6988)[2021-10-27 13:47:51.643370][LM_DEBUG   ]  HCNS: <-- handle_output
+(8188)[2021-10-27 13:47:51.722067][LM_DEBUG   ]  PROT: --> _updateEnterpriseAccessStatus
+(8188)[2021-10-27 13:47:51.722067][LM_DEBUG   ]  didn't find any shared suffix - Host VPN is DISABLED
+(8188)[2021-10-27 13:47:51.754403][LM_DEBUG   ]  Remote access is disabled.
+(8188)[2021-10-27 13:47:51.754403][LM_DEBUG   ]  PROT: <-- _updateEnterpriseAccessStatus
+(8188)[2021-10-27 13:47:51.754403][LM_DEBUG   ]  PROT: <-- Init Status: 1
+(8188)[2021-10-27 13:47:52.268935][LM_DEBUG   ]  Connected to HECI driver
+(8188)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  PFWS: BroadcastActive - signalled start
+(8188)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  GmsService: sending message to Configurator
+(8188)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Message type 528 process started
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  got PORT_FORWARDING_STARTED event
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> TaskCompleted
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Message type 528 scheduled to complete
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: <-- TaskCompleted
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Message type 528 in process, defer 519
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  TASK_COMPLETED
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Message type 528 process completed
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Message type 519 process started
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  got ongoing event
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> UpdateConfiguration
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Got Port Forwarding Status: 1
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  StartAceService: SharedStaticIPService
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  SharedStaticIPService: needSpecialCheck
+(6988)[2021-10-27 13:47:52.995775][LM_DEBUG   ]  Configurator:CheckSharedStaticIPLoad
+(8188)[2021-10-27 13:47:53.296423][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:53.298462][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(5768)[2021-10-27 13:47:53.427673][LM_DEBUG   ]  ==>LME[7]: Channel close
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:53.520628][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  ==>LME[0]: Channel close
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:53.833681][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  Configurator:CheckSharedStaticIPLoad 0
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  the requested service SharedStaticIPService should not start.
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  StartAceService: TimeSyncService
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  TimeSyncService: needSpecialCheck
+(6988)[2021-10-27 13:47:54.045239][LM_DEBUG   ]  Configurator::CheckTimeSyncStateLoad
+(8188)[2021-10-27 13:47:54.065416][LM_DEBUG   ]  ==>LME[1]: Channel close
+(8188)[2021-10-27 13:47:54.073477][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:54.073477][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.073477][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.073477][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.075486][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.075527][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:54.075527][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  ==>LME[2]: Channel close
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:54.216815][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:54.396638][LM_DEBUG   ]  Configurator::CheckTimeSyncStateLoad 1(8188)[2021-10-27 13:47:54.398677][LM_DEBUG   ]  ==>LME[3]: Channel close
+(6988)[2021-10-27 13:47:54.398677][LM_DEBUG   ]  Checking signature for configuration file TimeSyncService.dll
+(6988)[2021-10-27 13:47:54.398677][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  Checking version for configuration file TimeSyncService.dll
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  GetAppVersion: Got version: 2026.14.0.1682
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  CompareVersions: C:\WINDOWS\System32\DriverStore\FileRepository\lms.inf_amd64_9c1ec18c04feca8d\TimeSyncService.dll version is equal or newer than LMS.
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  Version is valid
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  TimeSyncService::init
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  EventHandler::init TimeSyncService 
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  TSS: --> initSubService
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  TimeSyncService
+(6988)[2021-10-27 13:47:54.449138][LM_DEBUG   ]  TSS: <-- initSubService
+(6988)[2021-10-27 13:47:54.457147][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  StartAceService: WiFiProfileSyncService
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  WiFiProfileSyncService: needSpecialCheck
+(6988)[2021-10-27 13:47:54.457184][LM_DEBUG   ]  Configurator::CheckWiFiProfileSyncRequired
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:54.570366][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(5768)[2021-10-27 13:47:54.694837][LM_DEBUG   ]  ==>LME[4]: Channel close
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:54.743456][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  ==>LME[5]: Channel close
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:55.060231][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:55.262098][LM_DEBUG   ]  Configurator:: WifiPort found 1 ports
+(6988)[2021-10-27 13:47:55.270156][LM_DEBUG   ]  WlanWSManClient::Init
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:55.332807][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  ==>LME[7]: Channel close
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.401370][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:55.403404][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  WlanWSManClient::LocalProfileSynchronizationEnabled data 0
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Configurator:: LocalProfileSynchronization disabled in FW
+(8188)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  ==>LME[0]: Channel close
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  the requested service WiFiProfileSyncService should not start.
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- StartAceService
+(8188)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  ==>LME[6]: Channel close
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- UpdateConfiguration Status: 4
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::HandleAceMessage type:514
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to PowerOperationsService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message to PowerOperationsService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::publish event Port Forwarding Service started to PowerOperationsService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to PartialFWUpdateService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message to PartialFWUpdateService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::publish event Port Forwarding Service started to PartialFWUpdateService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to StatusEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message to StatusEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::publish event Port Forwarding Service started to StatusEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to WinLogEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager:: Filter blocked Subscribe WinLogEventHandler for event
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to WMIEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager:: Filter blocked Subscribe WMIEventHandler for event
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to HistoryEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager:: Filter blocked Subscribe HistoryEventHandler for event
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Event manager post event to COMEventHandler
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager:: Filter blocked Subscribe COMEventHandler for event
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::HandleAceMessage type:512
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventManager::subscribe TimeSyncService for events
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message to TimeSyncService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  POPS: --> handle_output
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  handle_output: PowerOperationsService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  EventHandler::HandleAceMessage type:514, name: PowerOperationsService
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  PowerOperationsService got EVENT_PORT_FORWARDING_SERVICE_AVAILABLE. m_addCapabilitiesRequiredButNoPfw: 1
+(6988)[2021-10-27 13:47:55.504313][LM_DEBUG   ]  adding graceful power operations
+(6988)[2021-10-27 13:47:55.514409][LM_DEBUG   ]  adding graceful power operations 0 1
+(6988)[2021-10-27 13:47:55.514409][LM_DEBUG   ]  PowerManagementCapabilitiesClient::Init
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:55.534644][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(5768)[2021-10-27 13:47:55.605349][LM_DEBUG   ]  ==>LME[1]: Channel close
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:55.615458][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:56.019426][LM_DEBUG   ]  PowerManagementCapabilitiesClient::Initialized
+(6988)[2021-10-27 13:47:56.019426][LM_DEBUG   ]  Adding the value 7. PowerManagementCapabilitiesClient::updateCapability
+(6988)[2021-10-27 13:47:56.019426][LM_DEBUG   ]  Updating the capabilities. PowerManagementCapabilitiesClient::addGracefulOperations
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  ==>LME[2]: Channel close
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:56.236492][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  ==>LME[3]: Channel close
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  POPS: <-- handle_output
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  EventHandler::HandleAceMessage type:514, name: PartialFWUpdateService
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: --> handle_event
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PartialFWUpdateService got EVENT_PORT_FORWARDING_SERVICE_AVAILABLE. schedPFUAfterResume_: 0, m_PfuRequiredButNoPfw: 1
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: <-- handle_event Status: 514
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  EventHandler::HandleAceMessage type:516, name: PartialFWUpdateService
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: --> handle_event
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PartialFWUpdateService: MB_PFWU_START_EVENT
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: --> partialFWUpdate
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: <-- partialFWUpdate Status: 0
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: --> isMESKU
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  PFU: <-- isMESKU Status: 0
+(6988)[2021-10-27 13:47:56.549788][LM_DEBUG   ]  FW ImageType=4
+(6988)[2021-10-27 13:47:56.557843][LM_DEBUG   ]  PFWUpdateDllWrapperFactory Create wrapper for 14
+(6988)[2021-10-27 13:47:56.557843][LM_DEBUG   ]  PFWUpdateDllWrapperFactory got unsupported version: 14. Loading ME12 DLL.
+(6988)[2021-10-27 13:47:56.559899][LM_DEBUG   ]  Checking signature for configuration file FWUpdateLib_12.dll
+(6988)[2021-10-27 13:47:56.559899][LM_DEBUG   ]  Verifying signature
+(6988)[2021-10-27 13:47:56.640795][LM_DEBUG   ]  VerifyFileSignature: The file is signed and the signature was verified.
+(6988)[2021-10-27 13:47:56.640795][LM_DEBUG   ]  Verifying certificate name
+(6988)[2021-10-27 13:47:56.648852][LM_DEBUG   ]  VerifyCertificateName: File is signed by Intel
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  After Init phase
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  PFU: --> SetExpectedWithLocalOSLanguage
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  PFU: <-- SetExpectedWithLocalOSLanguage Status: 0
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  Is Windows Default Language: 1
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  PFU: --> getUCLanguageID
+(6988)[2021-10-27 13:47:56.650904][LM_DEBUG   ]  PFU: <-- getUCLanguageID Status: 0
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:56.751922][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  ==>LME[4]: Channel close
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:56.802388][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:56.862975][LM_DEBUG   ]  expectedLang: 0
+(8188)[2021-10-27 13:47:56.862975][LM_DEBUG   ]  ==>LME[5]: Channel close
+(6988)[2021-10-27 13:47:56.883177][LM_DEBUG   ]  isPfwuRequired LOCL: currentInstanceId=1, expectedInstanceId=1
+(6988)[2021-10-27 13:47:56.901425][LM_DEBUG   ]  isPfwuRequired WCOD: currentInstanceId=752, expectedInstanceId=752
+(6988)[2021-10-27 13:47:56.901425][LM_DEBUG   ]  PFWUpdate Return Code 0: Success.
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  PFU: <-- handle_event Status: 516
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  STEH: --> handle_output
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  handle_output: StatusEventHandler
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  EventHandler::HandleAceMessage type:514, name: StatusEventHandler
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  STEH: --> handleStatusChanged
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  category=9 id=95
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  STEH: --> firstPullForEvents
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  firstPullForEvents: Not first time
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  STEH: <-- firstPullForEvents
+(6988)[2021-10-27 13:47:56.903462][LM_DEBUG   ]  STEH: --> checkForBootReason
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:56.984372][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  ==>LME[6]: Channel close
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.037128][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:57.237073][LM_DEBUG   ]  ==>LME[7]: Channel close
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.239105][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:57.269476][LM_DEBUG   ]  HostBootReasonClient::GetHostResetReason ended successfully
+(6988)[2021-10-27 13:47:57.269476][LM_DEBUG   ]  STEH: <-- checkForBootReason
+(6988)[2021-10-27 13:47:57.269476][LM_DEBUG   ]  STEH: --> GeneratePortFwrdRelatedEvents
+(6988)[2021-10-27 13:47:57.269476][LM_DEBUG   ]  STEH: --> GetAmtState
+(8188)[2021-10-27 13:47:57.277516][LM_DEBUG   ]  ==>LME[0]: Channel close
+(6988)[2021-10-27 13:47:57.279553][LM_DEBUG   ]  Capability=0x5DF6D645 State=0x5DF6D645
+(6988)[2021-10-27 13:47:57.279553][LM_DEBUG   ]  AmtState=2
+(6988)[2021-10-27 13:47:57.279553][LM_DEBUG   ]  STEH: <-- GetAmtState Status: 1
+(6988)[2021-10-27 13:47:57.279553][LM_DEBUG   ]  STEH: --> GenerateSharedStaticIPEvents
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.360290][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(5768)[2021-10-27 13:47:57.390671][LM_DEBUG   ]  ==>LME[1]: Channel close
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.398711][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(5768)[2021-10-27 13:47:57.593236][LM_DEBUG   ]  ==>LME[2]: Channel close
+(8188)[2021-10-27 13:47:57.601285][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.603294][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.603321][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.603321][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.603321][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.603321][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.603321][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:57.693351][LM_DEBUG   ]  ==>LME[3]: Channel close
+(6988)[2021-10-27 13:47:57.693351][LM_DEBUG   ]  STEH: <-- GenerateSharedStaticIPEvents
+(6988)[2021-10-27 13:47:57.693351][LM_DEBUG   ]  STEH: --> GenerateTimeSyncEvents
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.775167][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  ==>LME[4]: Channel close
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:57.851285][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:57.853322][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:57.964505][LM_DEBUG   ]  ==>LME[5]: Channel close
+(6988)[2021-10-27 13:47:57.964505][LM_DEBUG   ]  STEH: <-- GenerateTimeSyncEvents
+(6988)[2021-10-27 13:47:57.964505][LM_DEBUG   ]  STEH: --> GenerateWiFiProfileSyncEvents
+(6988)[2021-10-27 13:47:57.964505][LM_DEBUG   ]  WlanWSManClient::Init
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.025022][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  ==>LME[6]: Channel close
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.166303][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.174353][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:58.206729][LM_DEBUG   ]  WlanWSManClient::LocalProfileSynchronizationEnabled data 0
+(6988)[2021-10-27 13:47:58.206729][LM_DEBUG   ]  StatusEventHandler:: LocalProfileSynchronization disabled in FW
+(8188)[2021-10-27 13:47:58.206729][LM_DEBUG   ]  ==>LME[7]: Channel close
+(6988)[2021-10-27 13:47:58.206729][LM_DEBUG   ]  STEH: <-- GenerateWiFiProfileSyncEvents
+(6988)[2021-10-27 13:47:58.206729][LM_DEBUG   ]  STEH: --> GenerateKVMRedirectionEvents
+(8188)[2021-10-27 13:47:58.224911][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.224911][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.224911][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.226948][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.226948][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.226948][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.226948][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  ==>LME[0]: Channel close
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.245090][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:58.288891][LM_DEBUG   ]  StatusEventHandler: KVMRedirectionState=3 
+(8188)[2021-10-27 13:47:58.288891][LM_DEBUG   ]  ==>LME[1]: Channel close
+(6988)[2021-10-27 13:47:58.288891][LM_DEBUG   ]  STEH: <-- GenerateKVMRedirectionEvents
+(6988)[2021-10-27 13:47:58.288891][LM_DEBUG   ]  STEH: --> GenerateUCEvents
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.333793][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  ==>LME[2]: Channel close
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.377862][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:58.444827][LM_DEBUG   ]  GetUserConsentState State=0, Policy=1
+(6988)[2021-10-27 13:47:58.444827][LM_DEBUG   ]  STEH: <-- GenerateUCEvents
+(6988)[2021-10-27 13:47:58.444827][LM_DEBUG   ]  STEH: --> GenerateWLANEvents
+(8188)[2021-10-27 13:47:58.452836][LM_DEBUG   ]  ==>LME[3]: Channel close
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.552335][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  ==>LME[4]: Channel close
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.642962][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.791039][LM_DEBUG   ]  ==>LME[5]: Channel close
+(8188)[2021-10-27 13:47:58.791039][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.791039][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.799094][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.799094][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.799094][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.799094][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.799094][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  GetAMTEthernetPortSettings LinkPreference=2 LinkControl=2 LinkProtection=1
+(8188)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  ==>LME[6]: Channel close
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  STEH: <-- GenerateWLANEvents
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  STEH: <-- GeneratePortFwrdRelatedEvents
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  STEH: <-- handleStatusChanged
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  STEH: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TSS: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: TimeSyncService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  EventHandler::HandleAceMessage type:512, name: TimeSyncService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TimeSyncService MB_SUBSCRIBE_EVENT
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TSS: --> startSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TimeSyncService, 0x2C52998
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TSS: <-- startSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TSS: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  serviceName: TimeSyncService, status: 1
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 0, waiting 1
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> StartAceService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  StartAceService: WaitingForPfwLastService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService: --> initSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService: <-- initSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService: --> startSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService, 0x2C50DB8
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  WaitingForPfwLastService: <-- startSubService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- StartAceService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  serviceName: WaitingForPfwLastService, status: 1
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> TaskCompleted
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  Message type 519 scheduled to complete
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- TaskCompleted
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 1
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TASK_COMPLETED
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  Message type 519 process completed
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TimeSyncService handle_timeout
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TSS: --> handle_output
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  handle_output: TimeSyncService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  EventHandler::HandleAceMessage type:531, name: TimeSyncService
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  Handling event
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TimeSyncService::handle_event
+(6988)[2021-10-27 13:47:58.871616][LM_DEBUG   ]  TimeSyncService::PerformSync
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.911968][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.930785][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  ==>LME[7]: Channel close
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:58.942929][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  ==>LME[0]: Channel close
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  PROT: --> _acceptConnection
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  PROT: --> _isLocal
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  PROT: <-- _isLocal Status: 1
+(8188)[2021-10-27 13:47:59.054189][LM_DEBUG   ]  ==>LME: OPEN_CHANNEL_REQUEST, Address: ::1:16992.
+(8188)[2021-10-27 13:47:59.062263][LM_DEBUG   ]  PROT: <-- _acceptConnection
+(6988)[2021-10-27 13:47:59.084549][LM_DEBUG   ]  TimeSyncService:: Difference is less than 30 seconds, time sync will not be performed
+(6988)[2021-10-27 13:47:59.084549][LM_DEBUG   ]  TimeSyncService:: ms_LastTimeSync set to 1635331679
+(8188)[2021-10-27 13:47:59.084549][LM_DEBUG   ]  ==>LME[1]: Channel close
+(6988)[2021-10-27 13:47:59.084549][LM_DEBUG   ]  TSS: <-- handle_output
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  Message type 521 process started
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  got stop event
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: --> StopAllServices
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  Deactivating LastService
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  GmsService: sending message to LastService
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.410752][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  Deactivating HostChangesNotificationService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to HostChangesNotificationService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  StopAll done
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAllServices
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: LastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: --> closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: <-- closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: HostChangesNotificationService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HostChangesNotificationService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: --> closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HostChangesNotificationService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: <-- closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HCNS: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  serviceName: LastService, status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  LastService service finalized
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 13
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  Deactivating WaitingForPfwLastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to WaitingForPfwLastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  serviceName: HostChangesNotificationService, status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HostChangesNotificationService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  HostChangesNotificationService service stopped
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 12
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: WaitingForPfwLastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: --> closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: <-- closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  serviceName: WaitingForPfwLastService, status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  WaitingForPfwLastService service finalized
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 12
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  Deactivating IPRefreshService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to IPRefreshService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  Deactivating PowerOperationsService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to PowerOperationsService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  Deactivating TimeSyncService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to TimeSyncService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: --> handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  handle_output: IPRefreshService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPRefreshService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: --> closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPRefreshService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: <-- closeSubService
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  IPR: <-- handle_output
+(6988)[2021-10-27 13:53:34.426356][LM_DEBUG   ]  POPS: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PowerOperationsService MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  POPS: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TimeSyncService MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  serviceName: IPRefreshService, status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  IPRefreshService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  IPRefreshService service finalized
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 9
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::unSubscribe PowerOperationsService for events
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::unSubscribe TimeSyncService for events
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  POPS: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PowerOperationsService MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  POPS: --> closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  POPS: <-- closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  POPS: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TimeSyncService MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: --> closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: <-- closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TSS: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  serviceName: PowerOperationsService, status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PowerOperationsService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PowerOperationsService finalized
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 9
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  serviceName: TimeSyncService, status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TimeSyncService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  TimeSync service stopped
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 9
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  Deactivating PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PartialFWUpdateService MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventManager::unSubscribe PartialFWUpdateService for events
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PartialFWUpdateService MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: --> closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: <-- closeSubService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFU: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  serviceName: PartialFWUpdateService, status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PartialFWUpdateService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PartialFWUpdateService service finalized
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 8
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  Deactivating PortForwardingService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to PortForwardingService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFWS: --> handle_output
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  handle_output: PortForwardingService
+(6988)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PortForwardingService::HandleAceMessage, type: 525
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PFWS: BroadcastFailure
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message to Configurator
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  GmsService: sending message - found destination service
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  PROT: --> Deinit
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  LMEC: --> Deinit
+(8188)[2021-10-27 13:53:34.442013][LM_DEBUG   ]  LMEC: <-- Deinit
+(5768)[2021-10-27 13:53:34.457635][LM_ERROR   ]  Error receiving data from HECI. Error: Read failed: INTERNAL_ERROR
+(5768)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  LMEC: --> Deinit
+(5768)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  LMEC: <-- Deinit
+(8188)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  	Number of entries: 37
+(8188)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PROT: <-- Deinit
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PFWS: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PortForwardingService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PFWS: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PFWS: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ExecuteTask
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  We already closed, come back tomorrow. 529
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- ExecuteTask
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  serviceName: PortForwardingService, status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PortForwardingService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  LMEC: --> Disconnect
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  ==>LME: Disconnect.
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  State: not connected to HECI.
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  LMEC: <-- Disconnect
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  PFWS: finalized
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 7
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  Deactivating StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  StatusEventHandler MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::unSubscribe StatusEventHandler for events
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  StatusEventHandler MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  STEH: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  serviceName: StatusEventHandler, status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  StatusEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  StatusEventHandler service finalized
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 6
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  Deactivating COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  Deactivating HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  Deactivating WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  Deactivating WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COMEventHandler MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HistoryEventHandler MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMIEventHandler MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:525, name: WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WinLogEventHandler MB_STOP_SERVICE
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::unSubscribe COMEventHandler for events
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::unSubscribe HistoryEventHandler for events
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::unSubscribe WMIEventHandler for events
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::HandleAceMessage type:513
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventManager::unSubscribe WinLogEventHandler for events
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COMEventHandler MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COME: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HistoryEventHandler MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HEVH: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMIEventHandler MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMI: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  EventHandler::HandleAceMessage type:513, name: WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WinLogEventHandler MB_UNSUBSCRIBE_EVENT
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: --> closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WinLogEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: <-- closeSubService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WLOG: <-- handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  serviceName: COMEventHandler, status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COMEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  COMEventHandler service finalized
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 2
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  serviceName: HistoryEventHandler, status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HistoryEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  HistoryEventHandler service finalized
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 2
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  serviceName: WMIEventHandler, status: 0
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMIEventHandler
+(6988)[2021-10-27 13:53:34.457635][LM_DEBUG   ]  WMIEventHandler service finalized
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 2
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  serviceName: WinLogEventHandler, status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  WinLogEventHandler
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  WinLogEventHandler service finalized
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 2
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Deactivating EventManager
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message to EventManager
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: EventManager
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EventManager::HandleAceMessage type:525
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: --> closeSubService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EventManager
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: <-- closeSubService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EVMG: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  serviceName: EventManager, status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EventManager
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  EventManager service finalized
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  AsyncActivationManager: refreshing on operation 1, waiting 1
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> StopAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Deactivating FirstService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message to FirstService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- StopAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: FirstService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: --> GmsSubService::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: --> closeSubService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message to Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService: sending message - found destination service
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: <-- closeSubService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: <-- GmsSubService::HandleAceMessage Status: 525
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  SERVICE_STATUS_CHANGED
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  serviceName: FirstService, status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> ChangeServiceState
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  FirstService service finalized
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  LAST ONE
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  GmsService::SetStop()
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- FiniAceService
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> TaskCompleted
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Message type 521 scheduled to complete
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- TaskCompleted
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- ChangeServiceState Status: 0
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  TASK_COMPLETED
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Message type 521 process completed
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- Configurator::HandleAceMessage
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  handle_output: Configurator
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- handle_output
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: --> fini
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Success
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  CONF: <-- fini
+(6988)[2021-10-27 13:53:34.473474][LM_DEBUG   ]  Shutting down

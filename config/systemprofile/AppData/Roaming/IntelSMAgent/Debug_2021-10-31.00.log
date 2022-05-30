@@ -1,0 +1,498 @@
+2021-10-27 13:47:53.9527 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Intel SM Agent started.
+2021-10-27 13:47:54.2067 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Init first instance for AgentController
+2021-10-27 13:47:56.4486 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Agent service is being hosted successfully.
+2021-10-27 13:58:38.0949 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Intel SM Agent started.
+2021-10-27 13:58:38.3877 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Init first instance for AgentController
+2021-10-27 13:58:41.4553 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Agent service is being hosted successfully.
+2021-10-27 14:00:01.4596 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Intel SM Agent started.
+2021-10-27 14:00:01.7524 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Init first instance for AgentController
+2021-10-27 14:00:03.9975 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Agent service is being hosted successfully.
+2021-10-27 16:20:27.5653 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Client subscribed to service communication channel.
+2021-10-27 16:20:43.7040 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:20:53.9056 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Submitting download information - AppId: Common.Objects.Job
+2021-10-27 16:20:54.0096 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:54.0186 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:20:57.1486 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Start Download Task.
+2021-10-27 16:20:57.7886 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Setting job status as 'Downloading'.
+2021-10-27 16:20:57.7886 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:57.7886 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:20:57.7956 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download of software id 34771 from Url \\amr.corp.intel.com\iss\IntelSM\Apps\34771\Package have started.
+2021-10-27 16:20:57.8396 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:20:57.8426 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:57.8426 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:20:57.9146 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:20:57.9146 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:57.9146 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:20:58.9326 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:20:58.9326 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:58.9356 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:20:58.9916 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:20:58.9916 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:20:58.9966 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:00.0096 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:00.0096 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:00.0096 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:00.0136 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:00.0136 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:00.0136 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:00.0136 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:00.0316 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:00.0316 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:00.0696 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:00.0696 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:00.0746 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:01.2097 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:01.2097 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:01.2097 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:01.3468 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:01.3468 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:01.3468 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:01.3468 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:01.3468 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:01.3558 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:02.4521 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:02.4521 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:02.4521 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:02.4521 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:02.4521 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:02.4651 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:02.5091 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:02.5091 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:02.5131 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:10.1151 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:21:13.9090 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:13.9090 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:13.9090 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:25.6125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:25.6125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:25.6125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:37.4325 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:37.4325 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:37.4355 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:38.6882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:21:38.6882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:38.6882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:39.9672 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 1%
+2021-10-27 16:21:39.9672 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:39.9672 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:41.0469 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 2%
+2021-10-27 16:21:41.0469 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:41.0469 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:42.2919 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 3%
+2021-10-27 16:21:42.2939 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:42.2939 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:43.3630 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 4%
+2021-10-27 16:21:43.3630 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:43.3630 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:44.6016 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 4%
+2021-10-27 16:21:44.6016 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:44.6056 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:45.7956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 5%
+2021-10-27 16:21:45.7956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:45.7956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:48.2216 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 9%
+2021-10-27 16:21:48.2216 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:48.2216 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:49.6256 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 12%
+2021-10-27 16:21:49.6256 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:49.6256 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:51.2378 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 14%
+2021-10-27 16:21:51.2489 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:51.2489 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:53.7819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 18%
+2021-10-27 16:21:53.7819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:53.7819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:54.9439 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 18%
+2021-10-27 16:21:54.9439 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:54.9439 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:55.9899 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 19%
+2021-10-27 16:21:55.9899 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:55.9899 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:57.6054 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 20%
+2021-10-27 16:21:57.6074 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:57.6074 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:21:59.0005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 21%
+2021-10-27 16:21:59.0005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:21:59.0005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:00.0594 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 22%
+2021-10-27 16:22:00.0594 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:00.0594 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:01.2554 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 23%
+2021-10-27 16:22:01.2554 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:01.2554 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:03.7987 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:22:04.4295 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 27%
+2021-10-27 16:22:04.4295 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:04.4295 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:07.1125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 31%
+2021-10-27 16:22:07.1125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:07.1125 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:09.0312 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 35%
+2021-10-27 16:22:09.0312 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:09.0312 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:12.0272 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 40%
+2021-10-27 16:22:12.0302 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:12.0302 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:14.0565 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 44%
+2021-10-27 16:22:14.0655 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:14.0655 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:15.7648 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 47%
+2021-10-27 16:22:15.7648 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:15.7648 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:16.7924 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 47%
+2021-10-27 16:22:16.7954 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:16.7954 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:17.8493 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 48%
+2021-10-27 16:22:17.8493 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:17.8493 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:19.0089 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 49%
+2021-10-27 16:22:19.0089 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:19.0089 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:20.1005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 50%
+2021-10-27 16:22:20.1005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:20.1005 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:23.6167 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 54%
+2021-10-27 16:22:23.6167 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:23.6167 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:25.3665 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 58%
+2021-10-27 16:22:25.3665 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:25.3665 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:26.8058 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:22:26.8058 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:26.8088 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:38.1797 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:22:38.1846 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:38.1846 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:22:50.4004 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:22:50.4034 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:22:50.4034 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:01.8592 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:23:01.8592 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:01.8592 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:13.2763 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:23:13.2763 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:13.2783 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:24.6035 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:23:24.6035 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:24.6065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:36.1572 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:23:36.1572 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:36.1572 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:48.0864 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:23:48.0864 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:48.0904 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:23:59.7123 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 62%
+2021-10-27 16:23:59.7123 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:23:59.7153 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:11.5097 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 62%
+2021-10-27 16:24:11.5122 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:11.5122 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:22.8221 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 62%
+2021-10-27 16:24:22.8250 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:22.8250 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:24.3209 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 63%
+2021-10-27 16:24:24.3209 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:24.3209 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:25.3580 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 64%
+2021-10-27 16:24:25.3580 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:25.3580 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:37.3021 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 65%
+2021-10-27 16:24:37.3021 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:37.3021 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:49.2769 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 65%
+2021-10-27 16:24:49.2779 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:49.2779 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:50.3982 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 66%
+2021-10-27 16:24:50.3982 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:50.3982 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:24:51.4351 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 67%
+2021-10-27 16:24:51.4351 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:24:51.4351 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:04.0071 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 68%
+2021-10-27 16:25:04.0071 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:04.0071 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:05.0703 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 70%
+2021-10-27 16:25:05.0703 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:05.0703 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:16.6771 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 70%
+2021-10-27 16:25:16.6771 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:16.6771 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:17.7411 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 71%
+2021-10-27 16:25:17.7411 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:17.7411 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:29.0530 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 71%
+2021-10-27 16:25:29.0530 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:29.0530 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:31.1060 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 75%
+2021-10-27 16:25:31.1060 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:31.1060 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:32.1381 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:44.1200 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:25:44.1220 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:44.1220 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:55.6809 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:25:55.6809 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:55.6809 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:56.9821 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 79%
+2021-10-27 16:25:56.9821 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:56.9821 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:25:58.0836 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 81%
+2021-10-27 16:25:58.0836 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:25:58.0836 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 81%
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 81%
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:00.2065 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:01.9849 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 85%
+2021-10-27 16:26:01.9849 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:01.9849 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:03.2660 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 89%
+2021-10-27 16:26:03.2660 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:03.2660 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:04.6472 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 93%
+2021-10-27 16:26:04.6472 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:04.6472 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:05.8617 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 97%
+2021-10-27 16:26:05.8617 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:05.8617 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:07.4253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 99%
+2021-10-27 16:26:07.4253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:07.4253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:08.1901 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download of software id 34771 has completed successfully.
+2021-10-27 16:26:08.1901 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download completed for job 34771, reporting to Agent service.
+2021-10-27 16:26:08.2432 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:26:08.2432 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 download completed, initiating install job.
+2021-10-27 16:26:08.2482 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Update job status 34771 job: 
+2021-10-27 16:26:08.2482 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:26:08.2482 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Downloading job 34771 completed successfully.
+2021-10-27 16:26:10.5827 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : New job installer instance was init
+2021-10-27 16:26:10.6563 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : IsRegistry:True
+2021-10-27 16:26:10.6818 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : idsid:rosenste
+2021-10-27 16:26:15.8892 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : isAdmin rosenste:True
+2021-10-27 16:26:15.8892 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : return  isAdmin:True:IsRegistry:True
+2021-10-27 16:26:15.8892 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 getting ready for install.
+2021-10-27 16:26:15.8892 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : User Admin create TS
+2021-10-27 16:26:15.9845 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task was created
+2021-10-27 16:26:16.0485 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task is register
+2021-10-27 16:26:16.7268 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:30:37.2321 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task ended
+2021-10-27 16:30:37.2321 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 install completed.
+2021-10-27 16:30:37.3803 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Removing install 34771 job: 
+2021-10-27 16:30:37.3803 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:30:38.8974 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:30:38.8974 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:30:42.2372 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:32:30.9243 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:32:33.2050 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Submitting download information - AppId: Common.Objects.Job
+2021-10-27 16:32:33.2420 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:33.2420 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:35.4921 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Start Download Task.
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Setting job status as 'Downloading'.
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:36.1891 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download of software id 34771 from Url \\amr.corp.intel.com\iss\IntelSM\Apps\34771\Package have started.
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:36.2041 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:36.2041 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:36.1891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:36.2041 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:36.2482 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:36.2571 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:36.2571 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:37.2727 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:37.2727 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:37.2727 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:37.3127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.4127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:38.4127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:38.4127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:38.4257 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.4127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:38.4257 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.4127 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:38.4397 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:38.4397 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.4548 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:38.4548 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:38.4548 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.4548 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:38.4737 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:38.4737 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:38.7278 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:32:39.5788 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 0%
+2021-10-27 16:32:39.5788 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:39.5788 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:40.6108 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 1%
+2021-10-27 16:32:40.6108 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:40.6108 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:41.6945 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 2%
+2021-10-27 16:32:41.6945 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:41.6945 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:42.9712 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 4%
+2021-10-27 16:32:42.9712 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:42.9712 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:44.3353 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 5%
+2021-10-27 16:32:44.3353 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:44.3353 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:45.7979 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 9%
+2021-10-27 16:32:45.7979 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:45.8149 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:47.1198 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 12%
+2021-10-27 16:32:47.1198 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:47.1258 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:48.2729 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 14%
+2021-10-27 16:32:48.2729 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:48.2729 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:49.9910 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 18%
+2021-10-27 16:32:49.9910 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:49.9910 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:51.0140 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 19%
+2021-10-27 16:32:51.0160 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:51.0160 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:52.3072 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 21%
+2021-10-27 16:32:52.3072 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:52.3072 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:53.3992 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 23%
+2021-10-27 16:32:53.3992 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:53.3992 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:55.2153 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 27%
+2021-10-27 16:32:55.2153 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:55.2193 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:56.6819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 31%
+2021-10-27 16:32:56.6819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:56.6819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:32:58.6387 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 35%
+2021-10-27 16:32:58.6467 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:32:58.6467 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:00.7666 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 40%
+2021-10-27 16:33:00.7666 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:00.7876 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:02.3241 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 44%
+2021-10-27 16:33:02.3241 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:02.3241 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:03.4149 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 47%
+2021-10-27 16:33:03.4149 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:03.4149 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:04.4405 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 47%
+2021-10-27 16:33:04.4405 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:04.4405 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:05.4698 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 48%
+2021-10-27 16:33:05.4698 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:05.4698 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:06.5529 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 50%
+2021-10-27 16:33:06.5529 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:06.5529 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:09.4027 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 54%
+2021-10-27 16:33:09.4027 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:09.4027 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:10.7719 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 58%
+2021-10-27 16:33:10.7719 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:10.7719 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:11.8484 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:33:11.8484 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:11.8484 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:12.8956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 61%
+2021-10-27 16:33:12.8956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:12.8956 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:14.1106 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 62%
+2021-10-27 16:33:14.1106 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:14.1106 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:14.1106 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 62%
+2021-10-27 16:33:14.1286 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:14.1286 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:15.1492 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 63%
+2021-10-27 16:33:15.1492 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:15.1492 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:16.2882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 64%
+2021-10-27 16:33:16.2882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:16.2882 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:17.3878 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 65%
+2021-10-27 16:33:17.3878 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:17.3928 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:18.4938 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 67%
+2021-10-27 16:33:18.4938 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:18.4938 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:19.5819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 68%
+2021-10-27 16:33:19.5819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:19.5819 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:20.8279 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 70%
+2021-10-27 16:33:20.8299 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:20.8299 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:21.9479 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 71%
+2021-10-27 16:33:21.9479 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:21.9479 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:21.9479 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 71%
+2021-10-27 16:33:21.9559 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:21.9559 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:21.9479 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 71%
+2021-10-27 16:33:21.9559 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:21.9559 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:23.4408 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 75%
+2021-10-27 16:33:23.4408 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:23.4408 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:24.5253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:33:24.5253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:24.5253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:24.5253 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 78%
+2021-10-27 16:33:24.5343 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:24.5343 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:26.0414 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 79%
+2021-10-27 16:33:26.0414 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:26.0414 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:27.1235 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 80%
+2021-10-27 16:33:27.1265 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:27.1265 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:29.5201 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 85%
+2021-10-27 16:33:29.5201 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:29.5201 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:30.6601 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 89%
+2021-10-27 16:33:30.6601 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:30.6601 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:32.1802 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 93%
+2021-10-27 16:33:32.1802 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:32.1802 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:33.3531 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 97%
+2021-10-27 16:33:33.3531 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:33.3531 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:34.3851 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 99%
+2021-10-27 16:33:34.3851 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:34.3851 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:35.4360 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download of software id 34771 has completed successfully.
+2021-10-27 16:33:35.4720 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download completed for job 34771, reporting to Agent service.
+2021-10-27 16:33:35.4720 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Reporting progress - JobId: 34771
+2021-10-27 16:33:35.4930 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 download completed, initiating install job.
+2021-10-27 16:33:35.4930 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Update job status 34771 job: 
+2021-10-27 16:33:35.4930 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:33:35.4930 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Downloading job 34771 completed successfully.
+2021-10-27 16:33:35.4360 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Download Percentage update for software id 34771, 100%
+2021-10-27 16:33:36.0001 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : New job installer instance was init
+2021-10-27 16:33:36.0291 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : IsRegistry:True
+2021-10-27 16:33:36.0891 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : idsid:rosenste
+2021-10-27 16:33:40.8997 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : isAdmin rosenste:True
+2021-10-27 16:33:40.8997 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : return  isAdmin:True:IsRegistry:True
+2021-10-27 16:33:40.9137 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 getting ready for install.
+2021-10-27 16:33:40.9137 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : User Admin create TS
+2021-10-27 16:33:40.9497 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task was created
+2021-10-27 16:33:40.9677 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task is register
+2021-10-27 16:33:41.0137 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:35:21.8221 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Task ended
+2021-10-27 16:35:21.8221 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job 34771 install completed.
+2021-10-27 16:35:21.8991 - INFO: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Removing install 34771 job: 
+2021-10-27 16:35:21.8991 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Job state is changed ,id: 34771
+2021-10-27 16:35:23.3710 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:35:24.3300 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:35:27.8287 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
+2021-10-27 16:35:29.0847 - DEBUG: ISM : 2.2.0.1, ROSENSTE-MOBL1, SYSTEM : Getting jobs status.
